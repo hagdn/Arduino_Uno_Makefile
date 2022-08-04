@@ -6,6 +6,8 @@
 and one that matches the output content and file size that the Arduino IDE come up with. Compiling part
 was a bit easy to understand but the linking, oh boy, it's way too much to take in, but here's my best.*
 
+[YouTube video  - Uploading demonstration](https://youtu.be/08P6qaV6GPM)
+
 ### * Makefile does not erase bootloader
 ### * Uploading is done through the USB cable, the one you usually get when you buy an Arduino-Uno board
 
