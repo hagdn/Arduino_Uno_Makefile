@@ -82,6 +82,7 @@ a folder, Makefile, main.c.
       
       d. **-F** Just tries to disable the checking for device signature, since I am using the USB calbe and directly
                 uploading the code through it, it might not be needed.
+
       e. **-c arduino** says that we will be using the arduino programmer. Since we are using the USB and the bootloader.
       
       f. **-P "port here"** specifies the port as to where Arduino is connected to. This is different for every computer,
